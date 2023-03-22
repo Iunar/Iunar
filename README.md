@@ -1,1 +1,1 @@
-Interested in gamedev in python.
+Interested in rust and C

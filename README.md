@@ -1,1 +1,1 @@
-Interested in rust and C
+Interested in C
